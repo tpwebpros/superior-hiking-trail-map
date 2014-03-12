@@ -1,0 +1,26 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html, body {
+	height:100%;
+}
+
+.navbar nav {
+	width:100%;
+}
+
+.navbar-link {
+	margin:0;
+	padding:15px;
+}
+
+.map-container {
+	background:#ddd;
+	height:100%;
+	margin-bottom:0;
+}
+
+#map {position:fixed; top:50px; bottom:50px; left:0; right:0;}
